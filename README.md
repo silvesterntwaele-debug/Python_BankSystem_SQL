@@ -1,3 +1,7 @@
+<img width="622" height="480" alt="BankHist" src="https://github.com/user-attachments/assets/eb27ec3c-5a0c-45e5-8bc8-5683f54d3466" />
+<img width="604" height="656" alt="BankDash" src="https://github.com/user-attachments/assets/bcfb4c89-dff8-4415-a4a2-90c7ff970634" />
+<img width="626" height="802" alt="BankLogin" src="https://github.com/user-attachments/assets/09f1b324-4014-4658-bacb-dc92e09d4b8d" />
+<img width="610" height="756" alt="BankRegister" src="https://github.com/user-attachments/assets/62608f14-e638-4d4e-9c9d-388bbb7b666e" />
 # Bank System — Python & SQL Server
 
 A full-stack banking application built with Python and Microsoft SQL Server. Supports user registration and secure login, multiple bank accounts per user, deposits, withdrawals, and transfers — with two different interfaces: command-line and desktop GUI.
